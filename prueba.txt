@@ -2,4 +2,6 @@ este es el primer texto del archivo de prueba
 
 ahora le agregaremos nuevo texto de prueba 2
 
+anita platzi le viene a cambiar la historia al proyecto
+
 ahora haremos la tercera modificacion de prueba 2212
