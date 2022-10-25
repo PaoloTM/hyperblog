@@ -2,6 +2,8 @@ este es el primer texto del archivo de prueba
 
 ahora le agregaremos nuevo texto de prueba 2
 
+master 1
+
 anita platzi es una persona que contribuye a este proyecto open source y le viene a cambiar la historia al proyecto
 
 ahora haremos la tercera modificacion de prueba 2212
