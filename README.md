@@ -10,5 +10,6 @@ Un blog increible para el curso de git
 * Flujos de trabajo con git y github
 * Divertido
 * Creado por el divertido team lolsinio
+* Incluye muchos ejemplos en todos los S.O
 
 y como recordatorio.  **Este readme.md es un chiste**. Diseñado para ejemplo. [link xd](https://www.youtube.com/watch?v=i7gJvWMQSZQ "link xd")
